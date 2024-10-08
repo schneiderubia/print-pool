@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/print_pool.dir/main.cpp.o CMakeFiles/print_pool.dir/process.cpp.o CMakeFiles/print_pool.dir/printer.cpp.o CMakeFiles/print_pool.dir/pool.cpp.o -o print_pool 

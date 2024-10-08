@@ -1,0 +1,3 @@
+/mnt/c/Users/user/Documents/GitHub/print-pool/cmake-build-debug/CMakeFiles/print_pool.dir
+/mnt/c/Users/user/Documents/GitHub/print-pool/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/user/Documents/GitHub/print-pool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
